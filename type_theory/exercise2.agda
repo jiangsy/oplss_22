@@ -20,7 +20,7 @@ C-c C-SPC  check solution, and remove shed
 C-c C-r    refine, use function or do lambdas
 C-c C-c    pattern matching (if you give a parameter) or copatternmatching (no par).
 -}
-open import mylib4
+open import mylib
 
 p1 : P ⇔ P ∧ P
 proj₁ p1 p = p , p

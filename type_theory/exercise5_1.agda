@@ -3,8 +3,10 @@
 OPLSS 22 : Introduction to Type Theory
 Thursday Exercises
 -}
+
 open import Data.Product
 open import Relation.Binary.PropositionalEquality
+
 open import friday 
 
 

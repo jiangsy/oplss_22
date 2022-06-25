@@ -4,7 +4,7 @@ OPLSS 22 : Introduction to Type Theory
 Wednesday Exercises
 -}
 
-open import mylib4
+open import mylib
 
 {- Finite Sets -}
 
